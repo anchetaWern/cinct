@@ -1,0 +1,45 @@
+html { 
+  height: 100%;
+}
+
+body { 
+  height: 100%; 
+  margin: 0; 
+  padding: 0; 
+}
+
+#map-canvas { 
+    height: 90%; 
+    width: 1030px;
+    margin: 0 auto;
+}
+
+img{
+	max-width: none;
+}
+
+#cinct_form{
+	margin-top: 50px;
+}
+
+#result_container{
+	display: none;
+  margin-top: 70px;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+#app_info {
+  width: 540px;
+}
+
+.alert-info{
+  color: #333;
+}
+
+.precinct_number {
+  font-size: 19px;
+  font-weight: bold;
+}
