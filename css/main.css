@@ -43,3 +43,12 @@ img{
   font-size: 19px;
   font-weight: bold;
 }
+
+#no_results {
+  margin-top: 10px;
+  display: none;
+}
+
+.show{
+  display: block;
+}

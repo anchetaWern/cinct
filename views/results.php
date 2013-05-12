@@ -118,7 +118,7 @@
 		var homeMarker = new google.maps.Marker({
 		    position: homeLatlng,
 		    map: map,
-		    draggable: true
+		    draggable: false
 		});
 
 		var myOptions = {
